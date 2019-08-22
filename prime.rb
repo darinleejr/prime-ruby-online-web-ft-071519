@@ -14,7 +14,5 @@ def prime?(x)
       return false 
     end
   end 
+  true
 end
-
-#   true
-# end
